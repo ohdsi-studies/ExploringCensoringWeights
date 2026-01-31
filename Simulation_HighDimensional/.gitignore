@@ -1,0 +1,30 @@
+# --- R Project files ---
+*.Rproj
+.Rproj.user/
+
+# --- R session files ---
+.Rhistory
+.RData
+.Ruserdata
+
+# --- Simulation output directories ---
+# results from sim4_run.R and plotting scripts
+/results/
+/results*
+/old/
+/output/
+/figures/
+
+# --- Temporary files ---
+*.rds
+*.rdata
+*.RData
+*.png
+*.pdf
+
+# --- Logs ---
+*.log
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db

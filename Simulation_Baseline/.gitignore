@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/results_sim_small/
+/results_sim_small*
+/old/*
